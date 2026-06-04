@@ -1,3 +1,4 @@
+#Time Complexity: O(n)
 class Solution(object):
     def maxArea(self, height):
         left = 0
