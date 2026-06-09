@@ -1,3 +1,4 @@
+#Time complexity
 class Solution(object):
     def missingNumber(self, nums):
         actual_sum=0
